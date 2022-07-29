@@ -55,17 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6287889600100'] //ur owner number
-global.ownername = "Imannulll" //ur owner name
-global.ytname = "YT: NandoEdtz" //ur yt chanel name
+global.ownername = "Imannulll store" //ur owner name
+global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['6287889600100']
+global.owner = ['6287889600100]
 global.ownertag = '6287889600100' //ur tag number
-global.botname = 'Lufdy MD' //ur bot name
-global.packname = "Lufdy MD Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Imannulll" //ur sticker watermark author
+global.botname = 'Imannulll store v2' //ur bot name
+global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.reactmoji = "🤣" //ur menu react emoji
+global.themeemoji = "🦄" //ur theme emoji
+global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
